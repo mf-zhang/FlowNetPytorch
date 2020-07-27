@@ -1,3 +1,8 @@
+## zmf change
+
+zmf_run_inference_jpg.py - input rgb images, output optical flows
+zmf_run_inference_raw.py - input raw images, output optical flows (?)
+
 # FlowNetPytorch
 Pytorch implementation of FlowNet by Dosovitskiy et al.
 
